@@ -6,12 +6,6 @@
     "custom": "true"
   },
   {
-    "name": "! Interstellar FAQ/Docs",
-    "image": "/assets/media/icons/help_center_googlefonts.png",
-    "link": "https://docs.gointerstellar.app",
-    "categories": ["all"]
-  },
-  {
     "name": "! [NEW] Request An App",
     "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
     "image": "/assets/media/icons/request.webp",
@@ -84,12 +78,6 @@
     "link": "https://www.coolmathgames.com/",
     "image": "/assets/media/icons/coolmath.webp",
     "categories": ["all", "game"]
-  },
-  {
-    "name": "Discord",
-    "links": [{ "name": "Discord", "url": "https://discord.com" }, { "name": "Discord Canary", "url": "https://canary.discord.com" }, { "name": "Discord PTB", "url": "https://ptb.discord.com" }],
-    "image": "/assets/media/icons/dc.jpg",
-    "categories": ["all", "social"]
   },
   {
     "name": "DuckDuckGo",
@@ -315,13 +303,7 @@
     "image": "/assets/media/icons/wattpad.webp",
     "categories": ["all", "social"]
   },
-  {
-    "name": "Discord - Login",
-    "links": [{ "name": "Discord", "url": "https://discord.com/login" }, { "name": "Discord Canary", "url": "https://canary.discord.com/login" }, { "name": "Discord PTB", "url": "https://ptb.discord.com/login" }],
-    "image": "/assets/media/icons/dc.jpg",
-    "categories": ["all", "social"],
-    "blank": "true"
-  },
+  
   {
     "name": "HD Today",
     "link": "https://hdtoday.tv",

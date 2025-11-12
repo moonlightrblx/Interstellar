@@ -237,13 +237,13 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 });
 
-let path = "/assets/json/a.min.json";
+let path = "/assets/json/a.json";
 if (g) {
-  path = "/assets/json/g.min.json";
+  path = "/assets/json/g.json";
 } else if (c) {
-  path = "/assets/json/t.min.json";
+  path = "/assets/json/t.json";
 } else if (a) {
-  path = "/assets/json/a.min.json";
+  path = "/assets/json/a.json";
 }
 fetch(path)
   .then(response => {
